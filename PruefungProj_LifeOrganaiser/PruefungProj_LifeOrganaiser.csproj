@@ -133,7 +133,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include=".gitignore.txt" />
+    <Content Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="images\bg.jpg" />

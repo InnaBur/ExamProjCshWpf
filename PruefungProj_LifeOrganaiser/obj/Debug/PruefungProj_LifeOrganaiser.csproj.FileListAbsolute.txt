@@ -22,3 +22,4 @@ C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\o
 C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\obj\Debug\Pruefung.12A608B7.Up2Date
 C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\obj\Debug\PruefungProj_LifeOrganaiser.exe
 C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\obj\Debug\PruefungProj_LifeOrganaiser.pdb
+C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\obj\Debug\PruefungProj_LifeOrganaiser_Content.g.cs

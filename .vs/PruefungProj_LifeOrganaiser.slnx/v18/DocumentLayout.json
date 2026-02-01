@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\pruefungproj_lifeorganaiser\\commands\\deletetripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\commands\\deletetripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\pruefungproj_lifeorganaiser\\viewmodel\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\viewmodel\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|c:\\users\\aist\\inna\\wpf\\pruefungproj_lifeorganaiser\\pruefungproj_lifeorganaiser\\view\\tripwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\view\\tripwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\pruefungproj_lifeorganaiser\\viewmodel\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\viewmodel\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|c:\\users\\aist\\inna\\wpf\\pruefungproj_lifeorganaiser\\pruefungproj_lifeorganaiser\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\pruefungproj_lifeorganaiser\\model\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\model\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\pruefungproj_lifeorganaiser\\commands\\updatetripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\commands\\updatetripcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\pruefungproj_lifeorganaiser\\repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\pruefungproj_lifeorganaiser\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|c:\\users\\aist\\inna\\wpf\\pruefungproj_lifeorganaiser\\pruefungproj_lifeorganaiser\\view\\tripwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|solutionrelative:pruefungproj_lifeorganaiser\\view\\tripwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FEB0D0E-056E-4ED1-82A5-81B67F999931}|PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser.csproj|C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\pruefungproj_lifeorganaiser\\commands\\opentripscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,127 +33,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DeleteTripCommand.cs",
-              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Commands\\DeleteTripCommand.cs",
-              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\Commands\\DeleteTripCommand.cs",
-              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Commands\\DeleteTripCommand.cs",
-              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\Commands\\DeleteTripCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T18:39:40.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateTripCommand.cs",
-              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Commands\\UpdateTripCommand.cs",
-              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\Commands\\UpdateTripCommand.cs",
-              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Commands\\UpdateTripCommand.cs",
-              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\Commands\\UpdateTripCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T18:32:03.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T18:29:12.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dbo.Trips.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/LifeOrganiserDb2/True/SqlTable/dbo.Trips.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/LifeOrganiserDb2/True/SqlTable/dbo.Trips.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-02-01T18:10:15.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TripRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Repository\\TripRepository.cs",
-              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\Repository\\TripRepository.cs",
-              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Repository\\TripRepository.cs",
-              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\Repository\\TripRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAvwB4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T09:18:22.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Trip.cs",
-              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Model\\Trip.cs",
-              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\Model\\Trip.cs",
-              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Model\\Trip.cs",
-              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\Model\\Trip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T09:17:44.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OpenTripsCommand.cs",
-              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Commands\\OpenTripsCommand.cs",
-              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\Commands\\OpenTripsCommand.cs",
-              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Commands\\OpenTripsCommand.cs",
-              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\Commands\\OpenTripsCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T09:11:29.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TripViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\ViewModel\\TripViewModel.cs",
-              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\ViewModel\\TripViewModel.cs",
-              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\ViewModel\\TripViewModel.cs",
-              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\ViewModel\\TripViewModel.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T08:41:03.449Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "ae7325aa-d1fb-4e23-ab86-5081a3ce3a3b",
-        "Display": 1,
-        "X": 549,
-        "Y": 73,
-        "Width": 1719,
-        "Height": 1299,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -175,8 +48,68 @@
               "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\View\\TripWindow.xaml",
               "RelativeToolTip": "PruefungProj_LifeOrganaiser\\View\\TripWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-01T17:53:26.708Z",
+              "WhenOpened": "2026-02-01T19:02:09.557Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Trips.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/LifeOrganiserDb2/True/SqlTable/dbo.Trips.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/LifeOrganiserDb2/True/SqlTable/dbo.Trips.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-01T18:10:15.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\ViewModel\\TripViewModel.cs",
+              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\ViewModel\\TripViewModel.cs",
+              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\ViewModel\\TripViewModel.cs",
+              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\ViewModel\\TripViewModel.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAIAywJsAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:41:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T21:13:04.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TripWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\View\\TripWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\View\\TripWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\View\\TripWindow.xaml.cs",
+              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\View\\TripWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T19:02:07.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenTripsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Commands\\OpenTripsCommand.cs",
+              "RelativeDocumentMoniker": "PruefungProj_LifeOrganaiser\\Commands\\OpenTripsCommand.cs",
+              "ToolTip": "C:\\Users\\AIst\\Inna\\WPF\\PruefungProj_LifeOrganaiser\\PruefungProj_LifeOrganaiser\\Commands\\OpenTripsCommand.cs",
+              "RelativeToolTip": "PruefungProj_LifeOrganaiser\\Commands\\OpenTripsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T09:11:29.312Z"
             }
           ]
         }

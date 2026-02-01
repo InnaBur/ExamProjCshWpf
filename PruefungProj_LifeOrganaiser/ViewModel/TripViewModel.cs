@@ -103,29 +103,6 @@ namespace PruefungProj_LifeOrganaiser.ViewModel
         }
 
 
-        //public void UpdateTripStatus(Trip trip)
-        //{
-        //    if (trip == null) return;
-        //    if (trip.IsVisited)
-        //    {
-        //        if (ToVisitTrips.Contains(trip))
-        //        {
-        //            ToVisitTrips.Remove(trip);
-        //            VisitedTrips.Add(trip);
-        //        }
-        //    }
-        //    else
-        //    {
-        //        if (VisitedTrips.Contains(trip))
-        //        {
-        //            VisitedTrips.Remove(trip);
-        //            ToVisitTrips.Add(trip);
-        //        }
-        //    }
-
-        //    _repo.UpdateTrip(trip);
-        //}
-
         public void CopyTrip(Trip trip)
         {
             if (trip == null) return;
@@ -155,6 +132,40 @@ namespace PruefungProj_LifeOrganaiser.ViewModel
         protected void OnPropertyChanged([CallerMemberName] string name = "")
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
+        }
+ 
+
+    private string _searchText;
+        public string SearchText
+        {
+            get => _searchText;
+            set
+            {
+                _searchText = value;
+                OnPropertyChanged();
+                FilterTrips();
+            }
+        }
+
+        private void FilterTrips()
+        {
+            var allTrips = _repo.GetAllTrips();
+
+            var filtered = allTrips
+                .Where(t => string.IsNullOrWhiteSpace(SearchText) ||
+                            (t.City != null && t.City.IndexOf(SearchText, StringComparison.OrdinalIgnoreCase) >= 0))
+                .ToList();
+
+            ToVisitTrips.Clear();
+            VisitedTrips.Clear();
+
+            foreach (var trip in filtered)
+            {
+                if (trip.IsVisited)
+                    VisitedTrips.Add(trip);
+                else
+                    ToVisitTrips.Add(trip);
+            }
         }
     }
 }
