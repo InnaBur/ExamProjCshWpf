@@ -1,0 +1,123 @@
+﻿<Window x:Class="PruefungProj_LifeOrganaiser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PruefungProj_LifeOrganaiser"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <DockPanel>
+        <DockPanel.Background>
+            <ImageBrush ImageSource="images/todo.jpg"
+                    Stretch="UniformToFill"
+                    Opacity="0.3"/>
+        </DockPanel.Background>
+        <Menu DockPanel.Dock="Top">
+
+            <MenuItem Header="Menu">
+                <MenuItem Header="Travel Organiser"
+                  Command="{Binding OpenTripsCommand}"/>
+
+                <MenuItem Header="ToDo List"
+                  Command="{Binding OpenToDoCommand}"/>
+
+                <MenuItem Header="Shopping List"
+                  Command="{Binding OpenShopListCommand}"/>
+            </MenuItem>
+
+            <MenuItem Header="_Help">
+                <MenuItem Header="About"/>
+                <MenuItem Header="Exit"/>
+            </MenuItem>
+
+        </Menu>
+
+        <StatusBar DockPanel.Dock="Bottom">
+            <TextBlock Text="Life Organiser – manage your life easily"/>
+        </StatusBar>
+
+        <StackPanel Margin="20"
+     HorizontalAlignment="Center">
+
+            <StackPanel Margin="20"
+            HorizontalAlignment="Center">
+
+                <TextBlock Text="Life Organiser"
+               FontSize="20"
+               FontWeight="Bold"
+               Margin="0,0,0,20"
+               TextAlignment="Center"/>
+
+                <StackPanel Orientation="Horizontal"
+                HorizontalAlignment="Center">
+
+                    <StackPanel Margin="30" HorizontalAlignment="Center">
+                        <TextBlock Text="Trips planner"
+                       FontSize="16"
+                       FontWeight="SemiBold"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,10"/>
+
+                        <Button Command="{Binding OpenTripsCommand}"
+                    Width="180"
+                    Height="180"
+                    ToolTip="Manage your trips">
+                            <Image Source="images/bg2.jpg"
+                       Stretch="UniformToFill"/>
+                        </Button>
+                    </StackPanel>
+
+                    <StackPanel Margin="30" HorizontalAlignment="Center">
+                        <TextBlock Text="ToDo"
+                       FontSize="16"
+                       FontWeight="SemiBold"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,10"/>
+
+                        <Button Command="{Binding OpenToDoCommand}"
+                    Width="180"
+                    Height="180"
+                    ToolTip="Manage your tasks">
+                            <Image Source="images/todo2.jpg"
+                       Stretch="UniformToFill"/>
+                        </Button>
+                    </StackPanel>
+
+                    <StackPanel Margin="30" HorizontalAlignment="Center">
+                        <TextBlock Text="Shopping List"
+                       FontSize="16"
+                       FontWeight="SemiBold"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,10"/>
+
+                        <Button Command="{Binding OpenShopListCommand}"
+                    Width="180"
+                    Height="180"
+                    ToolTip="Manage shopping lists">
+                            <Image Source="images/list.jpg"
+                       Stretch="UniformToFill"/>
+                        </Button>
+                    </StackPanel>
+
+                </StackPanel>
+
+                <TextBlock Text="Organise your daily life – trips, tasks and shopping lists in one place"
+               FontSize="12"
+               Foreground="Gray"
+               TextAlignment="Center"
+               Margin="0,20,0,0"/>
+
+            </StackPanel>
+
+         
+
+            <TextBlock Text="Organise your daily life – trips, tasks and shopping lists in one place"
+    FontSize="12"
+    Foreground="Gray"
+    TextAlignment="Center"
+    Margin="0,0,0,20"/>
+
+    </StackPanel>
+        </DockPanel>
+</Window>

@@ -1,0 +1,33 @@
+﻿<Window x:Class="PruefungProj_LifeOrganaiser.View.AddTripDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PruefungProj_LifeOrganaiser.View"
+        mc:Ignorable="d"
+        Title="AddTripDialog" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <TextBlock Text="City"/>
+        <TextBox Text="{Binding City}" />
+
+        <TextBlock Text="Description"/>
+        <TextBox Text="{Binding Description}" />
+
+        <TextBlock Text="Start Date"/>
+        <DatePicker SelectedDate="{Binding StartDate}" />
+
+        <TextBlock Text="Budget"/>
+        <TextBox Text="{Binding Budget}" />
+
+        <CheckBox Content="Visited?" IsChecked="{Binding IsVisited}" />
+
+        <TextBlock Text="Rating"/>
+        <Slider Minimum="0" Maximum="5" Value="{Binding Rating}" Width="200"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Save" Width="80" Margin="5" IsDefault="True"
+                    Click="Save_Click"/>
+            <Button Content="Cancel" Width="80" Margin="5" IsCancel="True"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
