@@ -23,3 +23,5 @@ C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\o
 C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\obj\Debug\PruefungProj_LifeOrganaiser.exe
 C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\obj\Debug\PruefungProj_LifeOrganaiser.pdb
 C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\obj\Debug\PruefungProj_LifeOrganaiser_Content.g.cs
+C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\obj\Debug\View\TodoWindow.g.cs
+C:\Users\AIst\Inna\WPF\PruefungProj_LifeOrganaiser\PruefungProj_LifeOrganaiser\obj\Debug\View\TodoWindow.baml

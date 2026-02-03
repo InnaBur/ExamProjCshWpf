@@ -15,12 +15,16 @@ namespace PruefungProj_LifeOrganaiser.Model
         public ICommand OpenTripsCommand { get; }
         public ICommand OpenToDoCommand { get; }
         public ICommand OpenShopListCommand { get; }
+        public ICommand AboutCommand { get; }
+        public ICommand ExitCommand { get; }
 
         public MainViewModel()
         {
             OpenTripsCommand = new OpenTripsCommand(this);
             OpenToDoCommand = new OpenToDoCommand(this);
             OpenShopListCommand = new OpenShopListCommand(this);
+            AboutCommand = new AboutCommand();
+            ExitCommand = new ExitCommand();
         }
 
         public void OpenTrips()
@@ -32,12 +36,14 @@ namespace PruefungProj_LifeOrganaiser.Model
 
         public void OpenToDo()
         {
-            MessageBox.Show("ToDo List öffnen");
+            var window = new View.TodoWindow();
+            window.DataContext = new TodoViewModel();
+            window.Show();
         }
 
         public void OpenShopList()
         {
-            MessageBox.Show("Shopping List öffnen");
+            MessageBox.Show("Shopping List under development");
         }
     
 }
